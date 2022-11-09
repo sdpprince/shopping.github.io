@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+.my_detail2{border:1px #D3D5D5;background:#A48E8F;height:65px;}
+.my_detail2 a{font-size:50px;background:#8CEAC0;color: #ADB4B0;height:30px;margin-left:20px;}
+.my_detail2 a:link{text-decoration:none;}
+.my_detail2 span{float: right;margin-top:20px;color:#D7B4B5;margin-right:2em;}
+.mybox{border:0px #000000 solid;width:1312;height:600px;}
+.mybox .my1{float: left;}
+.mybox .my1 ul li{list-style: none;line-height:100px;}
+.mybox .my2{float: left;margin-left:200px;}
+.mybox .my2 img{width:700px;height:400px;}
+.mybox .my3{float:right;}

@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+.header{width:100%;height:65px;border:0px  #000000 solid; border-bottom:3px #B51417 solid;}
+.registerarea{width:100%;border:1px #EDEDED solid;}
+.registerarea .h3{border:1px;background:#ECECEC;width:100%;height:50px;}
+.registerarea .h3 h3{float: left;color: #666666;margin-left:2em;}
+.registerarea .h3 span{float:right;margin-top:20px;font-size:10px;color: #666666;margin-right:2em;}
+.registerarea .h3 span a{color: #AD2124;font-size:18px;font-weight: 700;}
+.registerarea .h3 span a:link{text-decoration: none;}
+.registerarea .reg_form{border:1px;width:700px;height:400px;margin:30px auto;}
+.registerarea .reg_form .c5 input{height:30px;width:250px;color:#CCCCCC;}
+.registerarea .reg_form .c6{color: #C4181B;}
+.registerarea .reg_form .c7{color: #32E17D;}
+.registerarea .reg_form .c8{color:#1BA1E6;}
+.registerarea .reg_form p{margin:10px 170px;}
+.registerarea .reg_form p button{width:40px;height:20px;margin:0px 2px;color: #FFFFFF;border:0px;}
+.registerarea .reg_form .button1{background: #C11518;}
+.registerarea .reg_form .button2{background: #32E161;}
+.registerarea .reg_form .button3{background: #E8B215;}
+.registerarea .reg_form .button4{background: #C11518;width:200px;height:40px;margin:30px 120px;border:0px;color: #FFFFFF;font-weight: 700;}
+.registerarea .reg_form {font-size:10px;color: #666666;font-weight: 700;}
+
+
+
+.footer {border:1px;width:1312px;height:120px;overflow: hidden;margin-top:30px;}
+.footer ul{margin-left:200px;overflow: hidden;}
+.footer ul li{float:left;margin-left:3px;  list-style:none;font-size:5px;color:#666666;}
+.footer .p1{margin-top:20px;margin-left:240px; font-size:5px;color:#666666;}
+.footer .p2{margin-top:20px;margin-left:460px; font-size:5px;color:#666666;}

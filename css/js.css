@@ -1,0 +1,44 @@
+.focus{
+	position: relative;
+	margin-left: 0px;
+	overflow: hidden;
+}
+.focus ul{
+	
+	position: absolute;
+	width: 600%;
+	
+}
+.focus ul li{
+	width: 800px;
+	height: 455px;
+	top: -15px;
+	left: 0px;
+	float: left;
+}
+.focus ol {
+	position: absolute;
+	width: 500px;
+	height: 30px;
+	bottom: 0px;
+	left: 90px;
+	color: #32E161;
+	float: left;
+	font-size: 30px;
+}
+.focus ol li{
+	/* position: absolute; */
+	width: 30px;
+	height: 40px;
+	top: 100px;
+	left: 20px;
+    color: white;
+	float: left;
+	list-style: none;
+	cursor: pointer;
+	background-color: #aaaaff;
+	opacity: .5;
+	margin-left: 5%;
+	text-align: center;
+	border-radius: 20%;
+}

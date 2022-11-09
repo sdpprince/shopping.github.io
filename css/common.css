@@ -1,0 +1,165 @@
+@charset "utf-8";
+/* CSS Document */
+.shortcut{border: 1px #F1F1F1 solid;
+width: 1520px;
+height: 30px;
+background: #F1F1F1;}
+.banxin{border: 1px;
+width: 1400px;
+height: 30px;
+background:  #F1F1F1;
+margin: auto;}
+.a1{width: 270px;
+height: 30px;
+float: left;
+padding: 5px;}
+.b1{color:#666666;
+margin-left: 6px;
+text-decoration: none;}
+.b2{color:#C81623;
+margin-left: 5px;
+text-decoration: none;}
+.b3{color:#666666;
+margin-left: 3px;
+text-decoration: none;
+padding-left:3px;
+font-size:15px;}
+.b3 span{color:#666666;
+margin-left: 3px;
+text-decoration: none;
+padding-left:5px;
+font-size:1px;
+font-weight: 700;}
+.b4{color:#D81D20;
+margin-left: 3px;
+text-decoration: none;
+padding-left:5px;}
+.a2{float: right;
+width: 780px;
+height: 30px;
+padding: 5px;}
+/*第二部分*/
+.header{border:1px;
+width: 1400px;
+height: 100px;
+background:#FFFFFF;
+margin: auto;
+position: relative;}
+.logo h1 a img{
+border:1px;
+width: 171px;
+height: 61px;
+position:absolute;
+top:0px;
+float: left;
+}
+.logo h1{
+border:1px;
+background-repeat:no-repeat;
+width: 171px;
+height: 61px;
+position:absolute;
+top:15px;
+float:left;
+font-size:0px;
+}
+.search{width:800px;
+height: 35px;
+float:left;
+position: absolute;
+top: 20px;
+left:400px;}
+.search input{width:500px;
+height: 35px;
+border:2px #B1191A solid;
+text-indent:1em;
+color:#6D6D6D;
+float:left;
+clear:right;
+
+}
+.search button{width:80px;
+height: 35px;
+	line-height:15px; 
+left: 50px;
+background-color:#B1191A;
+border:2px #B1191A solid;
+float: left;}
+.hotwords{widows: 500px;
+height: 25px;
+float: left;
+position: absolute;
+top: 60px;
+left: 400px;}
+
+.shopcar{border:1px;
+width: 200px;
+height: 50px;
+position: absolute;
+top:15px;
+right:100px;
+float: right;}
+.shopcar .right{width:150px;
+height:35px;
+position:absolute;
+top:5px;
+left:20px;
+background-color:#F7F7F7;
+border:1px #F7F7F7 solid;}
+.shopcar .right a{width:150px;
+height: 20px;
+float:right;
+display:inline-block;
+position:absolute;
+top:10px;
+text-indent:2em;}
+.shopcar .right img{
+width:20px;
+height: 20px;
+float:right;
+display:inline-block;
+position:absolute;
+top:10px;
+text-indent:1em;
+}
+.shopcar .right span{width:150px;
+height: 20px;
+float:right;
+display:inline-block;
+position:absolute;
+top:10px;
+text-indent:8em;}
+.shopcar .right .count{
+height: 13px;
+position: absolute;
+top:-5px;
+left:110px;
+background:#D41A1D;
+border:1px #E5191C solid;
+font-size:12px;
+color: #FFFFFF;
+font-weight: 700;
+float: right;
+ border-radius: 7px 7px 7px 0;}
+
+/*底部制作*/
+.footer{border:1px;width:100%;background:#F5F5F5;overflow:hidden;}
+.footer .footer1{border: 1px;width: 1312px;margin: auto;}
+.footer .footer1 .mod_service{border:1px;width:1312px;height:113px;border-bottom:1px solid #CCCCCC;overflow: hidden;}
+.footer .footer1 .mod_service .service1 li{float:left;margin-left:60px;list-style:none;}
+.footer .footer1 .mod_service .service1 li img{border-radius:100px;margin-left:0px;margin-top:35px;}
+.footer .footer1 .mod_service .service1 li p{margin-left:60px;margin-top:-90px;line-height:100px;font-size:5px;color:#666666;}
+.footer .footer1 .mod_service .service1 li span{font-size:5px;}
+
+.footer .footer1 .mod_help{border:1px;width:1312px;height:186px;border-bottom:1px solid #CCCCCC;overflow: hidden;}
+.footer .footer1 .mod_help ul{float: left;margin-left:70px;margin-top:10px;list-style:none;}
+.footer .footer1 .mod_help .help2 .help1{line-height:40px;font-size:15px;margin-left:10px;color:#666666;font-weight:700;}
+.footer .footer1 .mod_help .help2 .help3{font-size:10px;line-height:18px;margin-left:10px;color:#666666;}
+
+.footer .footer1 .mod_copyright{border:1px;width:1312px;height:120px;overflow: hidden;}
+.footer .footer1 .mod_copyright ul{margin-left:200px;overflow: hidden;}
+.footer .footer1 .mod_copyright ul li{float:left;margin-left:3px;  list-style:none;font-size:5px;color:#666666;}
+.footer .footer1 .mod_copyright .p1{margin-top:20px;margin-left:240px; font-size:5px;color:#666666;}
+.footer .footer1 .mod_copyright .p2{margin-top:20px;margin-left:460px; font-size:5px;color:#666666;}
+
+

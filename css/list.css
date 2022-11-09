@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+.sk{border:1px;position:absolute;top:70px;left:250px; width:70px;height:30px;border-left:2px #B71A1D solid;}
+.sk img{float: right;width:56px;height:26px;}
+
+.sk_box{border:1px;width:1312px;height:47px;margin:auto;}
+.sk_box .sk_list{border:1px;width:400px;height:45px;margin:auto;float: left;}
+.sk_box .sk_list ul li{float: left;color:#0C0C0C;list-style: none;font-weight: 700;margin:0px 15px;font-size:18px;margin-top:-3px;}
+.sk_box .sk_con{border:1px;width:900px;height:45px;margin:auto;float: left;}
+.sk_box .sk_con ul li{float: left;color:#848484;list-style: none;margin:0px 20px;font-size:15px;}
+.sk_box .sk_con .sk_c1{color: #CC1B1E;}
+.sk_box .sk_con .sk_c2 span{font-size:1px;font-weight: 700;margin-left:2px;}
+.kongbox2{height:3px;border-bottom:#B91B1E 2px solid;width:100%px;}
+.sk_container{width:1312px;border:1px;margin:0px auto;}
+.sk_container .sk_hd{width:1200px;height:120px;margin:0px auto;}
+.sk_container .sk_hd img{width:1200px;margin-left:10px;}
+
+.sk_container .sk_bd{width:1312px;margin:0px auto;margin-bottom:20px;}
+.sk_container .sk_bd ul li{float:left;width:240px;margin:0px 5px;list-style:none;margin-left:50px;}
+.sk_container .sk_bd ul li img{float:left;width:280px;margin:0px 10px;}
